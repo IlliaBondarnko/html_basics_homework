@@ -1,2 +1,68 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="./test.html">LIFESTYLE</a></li>
+          <li><a href="./test.html">PHOTODAIRY</a></li>
+          <li><a href="./test.html">MUSIC</a></li>
+          <li><a href="./test.html">TRAVEL</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section class="lifestyle1">
+        <img src="img1.jpg" alt="img1(lifestyle)" width="400" />
+        <h4>LIFESTYLE</h4>
+        <h1>More than just a music festival</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea.
+        </p>
+      </section>
+      <section class="lifestyle2">
+        <img src="img2.jpg" alt="img2(lifestyle)" width="400" />
+        <h4>LIFESTYLE</h4>
+        <h1>Life tastes better with coffee</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea.
+        </p>
+      </section>
+      <section class="photodairy1">
+        <img src="img3.jpg" alt="img3(photodairy)" width="400" />
+        <h4>PHOTODAIRY</h4>
+        <h1>American dream</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea.
+        </p>
+      </section>
+      <section class="photodairy2">
+        <img src="img4.jpg" alt="img4(photodairy)" width="400" />
+        <h4>PHOTODAIRY</h4>
+        <h1>A day exploring the Alps</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+          aliquip ex ea.
+        </p>
+      </section>
+      <button>Load more</button>
+    </main>
+  </body>
+</html>
